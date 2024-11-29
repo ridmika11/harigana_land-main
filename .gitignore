@@ -1,0 +1,40 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django-specific files
+*.log
+*.pot
+*.pyc
+*.sqlite3
+*.env
+
+# Media and static files
+/media/
+
+
+# VS Code settings
+.vscode/
+
+# Virtual environment
+venv/
+env/
+Sri Lankan Cities/
+staticfiles/
+
+
+# Ignore the text file
+html original.txt
+
+# Byte-compiled files
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test and coverage results
+.coverage
+htmlcov/
+.pytest_cache/
